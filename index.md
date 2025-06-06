@@ -6,6 +6,6 @@ title: My homepage
 Welcome to my blog! 
 
 {% for post in site.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   <p>{{ post.excerpt }}</p>
 {% endfor %}
