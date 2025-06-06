@@ -3,6 +3,8 @@ layout: home
 title: My homepage
 ---
 
+[Picture of Finse](/assets/finse.jpg)
+
 Welcome to my blog! 
 
 {% for post in site.posts %}
