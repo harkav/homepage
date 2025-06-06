@@ -3,7 +3,7 @@ layout: home
 title: My homepage
 ---
 
-[Picture of Finse](/assets/finse.jpg)
+![Picture of Finse](/assets/finse.jpg)
 
 Welcome to my blog! 
 
