@@ -17,5 +17,14 @@ We'll see how it goes!
 
 It seems to be a bit slow to update. 
 
+Can I add python code here? 
+
+```python 
+
+comp = [i for  i in range(10)]
+
+```
+
+
 
 
