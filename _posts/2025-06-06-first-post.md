@@ -15,5 +15,7 @@ even write something about non-tech related topics that interest me.
 
 We'll see how it goes! 
 
+It seems to be a bit slow to update. 
+
 
 
