@@ -25,6 +25,11 @@ comp = [i for  i in range(10)]
 
 ```
 
+does this work? 
+
+<a href="{{ site.baseurl }}/notebooks/NLP_Similarity_Methods.html" target="_blank">Read my NLP Notebook</a>
+
+
 
 
 
