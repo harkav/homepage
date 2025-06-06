@@ -4,3 +4,10 @@ body {
   margin: auto;
   padding: 2rem;
 }
+
+#about-me {
+  padding: 1em;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  margin-bottom: 2em;
+}
